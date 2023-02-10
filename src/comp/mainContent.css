@@ -1,0 +1,32 @@
+
+.google--search{
+    color: grey;
+}
+
+
+.info--description{
+    line-height: 150%;
+}
+
+.info--for--picture{
+    margin-top: 3%;
+}
+.journal--pic{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 50px;
+    float: left;
+}
+
+.location--spec{
+    width: auto;
+    height: auto;
+}
+
+
+.pin--icon{
+    width: 12px;
+    height: 17px;
+    
+}
