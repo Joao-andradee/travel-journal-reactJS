@@ -22,6 +22,7 @@ export default function MainContent(props){
                 <p className='info--dates'><b>{props.info.startDate} - {props.info.endDate}</b></p>
                 <p className='info--description'>{props.info.description}</p><br/><br/><br/><br/><br/>
                 {props.info.title && <hr/>}
+                
             </div>
         </div>
     )
